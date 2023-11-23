@@ -13,3 +13,5 @@ work is done by below steps
 5. Prepare Train / Validation / Test
 6. Model selection
 7. Submission
+
+recorded score 0.80967
